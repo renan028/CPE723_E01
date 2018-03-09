@@ -1,0 +1,5 @@
+a = -1;
+b = 1;
+xy = (b-a) * rand(, 2) + a;
+s = sum(xy.^2,2);
+PI = length(s(s<1)) / length(s);

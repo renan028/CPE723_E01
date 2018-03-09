@@ -1,0 +1,68 @@
+\documentclass[12pt]{article}
+ 
+\usepackage[margin=1in]{geometry} 
+\usepackage{amsmath,amsthm,amssymb}
+
+\usepackage[brazilian]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+ 
+ %Matlab code in latex 
+\usepackage[final]{listings}
+\usepackage{color} %red, green, blue, yellow, cyan, magenta, black, white
+\definecolor{mygreen}{RGB}{28,172,0}
+\definecolor{mylilas}{RGB}{170,55,241}
+\lstdefinestyle{myMatlab}
+{
+language=matlab,frame=single, basicstyle=\small\ttfamily,breaklines=true,%
+morekeywords={matlab2tikz}, keywordstyle=\color{blue}, morekeywords=[2]{1}, keywordstyle=[2]{\color{black}}, commentstyle=\color{mygreen}, stringstyle=\color{mylilas}, identifierstyle=\color{black}, showstringspaces=false,%without this there will be a symbol in the places where there is a space
+numbers=left, numberstyle={\scriptsize \color{black}},% size of the numbers
+numbersep=9pt, % this defines how far the numbers are from the text
+% emph=[1]{for,end,break},emphstyle=[1]\color{red}, %some words to emphasise
+% emph=[2]{word1,word2}, emphstyle=[2]{style},
+}
+ 
+\newcommand{\N}{\mathbb{N}}
+\newcommand{\Z}{\mathbb{Z}}
+ 
+\newenvironment{theorem}[2][Theorem]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\newenvironment{lemma}[2][Lemma]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\newenvironment{exercise}[2][Exercício]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\newenvironment{reflection}[2][Reflection]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\newenvironment{proposition}[2][Proposition]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+\newenvironment{corollary}[2][Corollary]{\begin{trivlist}
+\item[\hskip \labelsep {\bfseries #1}\hskip \labelsep {\bfseries #2.}]}{\end{trivlist}}
+ 
+\begin{document}
+ 
+% --------------------------------------------------------------
+%                         Start here
+% --------------------------------------------------------------
+ 
+\title{Exercício 01}
+\author{Renan Salles de Freitas\\
+CPE 723 - Otimização Natural}
+ 
+\maketitle
+ 
+\begin{exercise}{1.a} 
+\begin{align*}
+\int xe^{-x} dx = \int -x d(e^{-x}) &= -xe^{-x} + \int e^{-x} dx \\
+\int xe^{-x} dx = -xe^{-x} - e^{-x} &= -e^{-x} (x+1)  \\
+\int_{0}^{1} xe^{-x} dx = \frac{e-2}{e} &= \approx 0.26424
+\end{align*}
+\end{exercise}
+ 
+\begin{exercise}(1.b)
+ 
+\lstinputlisting[style=myMatlab]{matlab/exercicio0101b.m} 
+
+\end{exercise}
+ 
+\end{document}
+              
