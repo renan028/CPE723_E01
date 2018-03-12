@@ -1,9 +1,0 @@
-% Exercicio 1.1.c
-n = 1000;
-pd = makedist('Exponential','mu', 1);
-x = zeros(n,1);
-r = random(pd,20,1);
-r = r(r<1)[
-
-s = sum(x.*exp(-x)./pdf(pd,x))/length(x);
-    

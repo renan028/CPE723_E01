@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.15)  8 MAR 2018 00:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.15)  11 MAR 2018 22:55
 entering extended mode
 **./main.tex
 (main.tex
@@ -490,43 +490,22 @@ Package: fontenc 2017/04/05 v2.0i Standard LaTeX package
 File: t1enc.def 2017/04/05 v2.0i Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 ))
-("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphicx.
 sty"
-\lst@mode=\count103
-\lst@gtempboxa=\box28
-\lst@token=\toks29
-\lst@length=\count104
-\lst@currlwidth=\dimen121
-\lst@column=\count105
-\lst@pos=\count106
-\lst@lostspace=\dimen122
-\lst@width=\dimen123
-\lst@newlines=\count107
-\lst@lineno=\count108
-\lst@maxwidth=\dimen124
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
-ty"
-File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
-\c@lstnumber=\count109
-\lst@skipnumbers=\count110
-\lst@framebox=\box29
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\graphics.
+sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
-cfg"
-File: listings.cfg 2015/06/04 1.6 listings configuration
-))
-Package: listings 2015/06/04 1.6 (Carsten Heinz)
-
-("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics\color.sty
-"
-Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
-
-("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
-.cfg"
-File: color.cfg 2016/01/02 v1.6 sample color configuration
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
-Package color Info: Driver file: pdftex.def on input line 147.
+Package graphics Info: Driver file: pdftex.def on input line 99.
 
 ("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-def\pdfte
 x.def"
@@ -540,22 +519,133 @@ Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 .sty"
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )
-\Gread@gobject=\count111
-)) (main.aux)
+\Gread@gobject=\count103
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+)
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\graphics-cfg\color
+.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count104
+\float@exts=\toks29
+\float@box=\box28
+\@float@everytoks=\toks30
+\@floatcapt=\box29
+)
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.
+sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-
+base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\grfext.st
+y"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvdefin
+ekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\oberdiek\kvoptions
+.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\kvsetke
+ys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\etexcmd
+s.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\ifluate
+x.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\generic\oberdiek\pdftexc
+mds.sty"
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+sty"
+\lst@mode=\count105
+\lst@gtempboxa=\box30
+\lst@token=\toks31
+\lst@length=\count106
+\lst@currlwidth=\dimen123
+\lst@column=\count107
+\lst@pos=\count108
+\lst@lostspace=\dimen124
+\lst@width=\dimen125
+\lst@newlines=\count109
+\lst@lineno=\count110
+\lst@maxwidth=\dimen126
+
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstmisc.s
+ty"
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count111
+\lst@skipnumbers=\count112
+\lst@framebox=\box31
+)
+("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\listings.
+cfg"
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (main.aux)
 \openout1 = `main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 41.
-LaTeX Font Info:    ... okay on input line 41.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -591,70 +681,208 @@ LaTeX Font Info:    ... okay on input line 41.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\c@lstlisting=\count112
 
 ("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\context\base\supp-pdf.mk
 ii"
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count113
-\scratchdimen=\dimen125
-\scratchbox=\box30
+\scratchdimen=\dimen127
+\scratchbox=\box32
 \nofMPsegments=\count114
 \nofMParguments=\count115
-\everyMPshowfont=\toks30
+\everyMPshowfont=\toks32
 \MPscratchCnt=\count116
-\MPscratchDim=\dimen126
+\MPscratchDim=\dimen128
 \MPnumerator=\count117
 \makeMPintoPDFobject=\count118
-\everyMPtoPDFconversion=\toks31
+\everyMPtoPDFconversion=\toks33
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 51.
+\c@lstlisting=\count119
+LaTeX Font Info:    Try loading font information for U+msa on input line 55.
  ("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 51.
+LaTeX Font Info:    Try loading font information for U+msb on input line 55.
  ("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.66 S
+      egue o código fonte do exercício, em Matlab:
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
 ("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\listings\lstlang1.
 sty"
 File: lstlang1.sty 2015/06/04 1.6 listings language file
 )
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 63.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 67.
 
 ("C:\Users\renan\AppData\Local\Programs\MiKTeX 2.9\tex\latex\base\t1cmtt.fd"
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 (matlab/exercicio0101b.m) [1
 
-{C:/Users/renan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (main.aux) 
-) 
+{C:/Users/renan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (matlab/exe
+rcicio02.m) (matlab/exercicio03.m [2])
+Package epstopdf Info: Source file: <figs/ex3_states.eps>
+(epstopdf)                    date: 2018-03-11 21:37:02
+(epstopdf)                    size: 134316 bytes
+(epstopdf)             Output file: <figs/ex3_states-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-11 21:37:45
+(epstopdf)                    size: 50914 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/ex3_states-eps-convert
+ed-to.pdf figs/ex3_states.eps>
+(epstopdf)             \includegraphics on input line 105.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/ex3_states-eps-converted-to.pdf, id=21, 367.3725pt x 305.14pt>
+File: figs/ex3_states-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/ex3_states-eps-converted-to.pdf>
+Package pdftex.def Info: figs/ex3_states-eps-converted-to.pdf used on input lin
+e 105.
+(pdftex.def)             Requested size: 341.43306pt x 283.61429pt.
+ [3]
+Package epstopdf Info: Source file: <figs/ex3_j.eps>
+(epstopdf)                    date: 2018-03-11 21:37:02
+(epstopdf)                    size: 134781 bytes
+(epstopdf)             Output file: <figs/ex3_j-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-11 21:37:45
+(epstopdf)                    size: 47752 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/ex3_j-eps-converted-to
+.pdf figs/ex3_j.eps>
+(epstopdf)             \includegraphics on input line 110.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/ex3_j-eps-converted-to.pdf, id=25, 364.36125pt x 305.14pt>
+File: figs/ex3_j-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/ex3_j-eps-converted-to.pdf>
+Package pdftex.def Info: figs/ex3_j-eps-converted-to.pdf used on input line 110
+.
+(pdftex.def)             Requested size: 341.43306pt x 285.94698pt.
+ [4 <./figs/ex3_states-eps-converted-to.pdf> <./figs/ex3_j-eps-converted-to.pdf
+>] (matlab/exercicio04b.m [5] [6])
+Package epstopdf Info: Source file: <figs/ex4b_states.eps>
+(epstopdf)                    date: 2018-03-11 22:38:26
+(epstopdf)                    size: 30987 bytes
+(epstopdf)             Output file: <figs/ex4b_states-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-11 22:52:31
+(epstopdf)                    size: 12822 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/ex4b_states-eps-conver
+ted-to.pdf figs/ex4b_states.eps>
+(epstopdf)             \includegraphics on input line 161.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/ex4b_states-eps-converted-to.pdf, id=53, 370.38374pt x 303.1325pt>
+File: figs/ex4b_states-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/ex4b_states-eps-converted-to.pdf>
+Package pdftex.def Info: figs/ex4b_states-eps-converted-to.pdf used on input li
+ne 161.
+(pdftex.def)             Requested size: 341.43306pt x 279.44034pt.
+Package epstopdf Info: Source file: <figs/ex4b_j.eps>
+(epstopdf)                    date: 2018-03-11 22:38:27
+(epstopdf)                    size: 31451 bytes
+(epstopdf)             Output file: <figs/ex4b_j-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-11 22:52:32
+(epstopdf)                    size: 13180 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/ex4b_j-eps-converted-t
+o.pdf figs/ex4b_j.eps>
+(epstopdf)             \includegraphics on input line 166.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/ex4b_j-eps-converted-to.pdf, id=54, 370.38374pt x 303.1325pt>
+File: figs/ex4b_j-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/ex4b_j-eps-converted-to.pdf>
+Package pdftex.def Info: figs/ex4b_j-eps-converted-to.pdf used on input line 16
+6.
+(pdftex.def)             Requested size: 341.43306pt x 279.44034pt.
+ [7 <./figs/ex4b_states-eps-converted-to.pdf>] <figs/j_04.png, id=67, 803.0pt x
+ 803.0pt>
+File: figs/j_04.png Graphic file (type png)
+ <use figs/j_04.png>
+Package pdftex.def Info: figs/j_04.png used on input line 171.
+(pdftex.def)             Requested size: 341.43306pt x 341.4359pt.
+ [8 <./figs/ex4b_j-eps-converted-to.pdf>] [9 <./figs/j_04.png>] (matlab/exercic
+io05.m
+[10])
+Package epstopdf Info: Source file: <figs/ex5_states.eps>
+(epstopdf)                    date: 2018-03-11 22:25:39
+(epstopdf)                    size: 53762 bytes
+(epstopdf)             Output file: <figs/ex5_states-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-11 22:30:37
+(epstopdf)                    size: 15969 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/ex5_states-eps-convert
+ed-to.pdf figs/ex5_states.eps>
+(epstopdf)             \includegraphics on input line 211.
+Package epstopdf Info: Output file is already uptodate.
+ <figs/ex5_states-eps-converted-to.pdf, id=87, 373.395pt x 303.1325pt>
+File: figs/ex5_states-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/ex5_states-eps-converted-to.pdf>
+Package pdftex.def Info: figs/ex5_states-eps-converted-to.pdf used on input lin
+e 211.
+(pdftex.def)             Requested size: 341.43306pt x 277.197pt.
+Package epstopdf Info: Source file: <figs/ex5_j.eps>
+(epstopdf)                    date: 2018-03-11 22:25:39
+(epstopdf)                    size: 36090 bytes
+(epstopdf)             Output file: <figs/ex5_j-eps-converted-to.pdf>
+(epstopdf)                    date: 2018-03-11 22:30:38
+(epstopdf)                    size: 12536 bytes
+(epstopdf)             Command: <epstopdf --outfile=figs/ex5_j-eps-converted-to
+.pdf figs/ex5_j.eps>
+(epstopdf)             \includegraphics on input line 216.
+Package epstopdf Info: Output file is already uptodate.
+
+<figs/ex5_j-eps-converted-to.pdf, id=88, 370.38374pt x 303.1325pt>
+File: figs/ex5_j-eps-converted-to.pdf Graphic file (type pdf)
+
+<use figs/ex5_j-eps-converted-to.pdf>
+Package pdftex.def Info: figs/ex5_j-eps-converted-to.pdf used on input line 216
+.
+(pdftex.def)             Requested size: 341.43306pt x 279.44034pt.
+ [11 <./figs/ex5_states-eps-converted-to.pdf>] [12 <./figs/ex5_j-eps-converted-
+to.pdf>] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 5733 strings out of 493323
- 72640 string characters out of 3130014
- 186812 words of memory out of 3000000
- 9202 multiletter control sequences out of 15000+200000
- 15811 words of font info for 50 fonts, out of 3000000 for 9000
+ 6800 strings out of 493323
+ 88596 string characters out of 3130014
+ 323997 words of memory out of 3000000
+ 10199 multiletter control sequences out of 15000+200000
+ 16577 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 31i,8n,50p,309b,1785s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\renan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\e
-ctt1095.pk> <C:\Users\renan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\e
-c\dpi600\ecrm0800.pk> <C:\Users\renan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
-jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\2.9\fonts\
-pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\renan\AppData\Local\MiKTeX\
-2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Users\renan\AppData\Loc
-al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2074.pk><C:/Users/renan/Ap
-pData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/U
-sers/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmm
-i12.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/am
-sfonts/cm/cmmi8.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmr12.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/renan/AppData/Local/Progra
-ms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/renan/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (1 page, 98558 bytes).
+ 42i,14n,50p,309b,1801s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\renan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\
+jknappen\ec\dpi600\ectt1095.pk> <C:\Users\renan\AppData\Local\MiKTeX\2.9\fonts\
+pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\renan\AppData\Local\MiKTeX\
+2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\renan\AppData\Loc
+al\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users\renan\A
+ppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1440.pk> <C:\Use
+rs\renan\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm2074.p
+k><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts
+/cm/cmex10.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
+blic/amsfonts/cm/cmmi12.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/renan/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/renan/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/renan
+/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/
+Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r8.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
+fonts/cm/cmsy10.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmsy8.pfb>
+Output written on main.pdf (12 pages, 334505 bytes).
 PDF statistics:
- 165 PDF objects out of 1000 (max. 8388607)
+ 351 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
