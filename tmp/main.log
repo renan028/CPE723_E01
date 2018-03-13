@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.15)  11 MAR 2018 22:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350 64-bit) (preloaded format=pdflatex 2017.10.15)  12 MAR 2018 21:43
 entering extended mode
 **./main.tex
 (main.tex
@@ -732,7 +732,8 @@ File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 (matlab/exercicio0101b.m) [1
 
 {C:/Users/renan/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (matlab/exe
-rcicio02.m) (matlab/exercicio03.m [2])
+rcicio0101c.m) [2] (matlab/exercicio02.m)
+(matlab/exercicio03.m [3])
 Package epstopdf Info: Source file: <figs/ex3_states.eps>
 (epstopdf)                    date: 2018-03-11 21:37:02
 (epstopdf)                    size: 134316 bytes
@@ -741,17 +742,16 @@ Package epstopdf Info: Source file: <figs/ex3_states.eps>
 (epstopdf)                    size: 50914 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex3_states-eps-convert
 ed-to.pdf figs/ex3_states.eps>
-(epstopdf)             \includegraphics on input line 105.
+(epstopdf)             \includegraphics on input line 152.
 Package epstopdf Info: Output file is already uptodate.
 
-<figs/ex3_states-eps-converted-to.pdf, id=21, 367.3725pt x 305.14pt>
+<figs/ex3_states-eps-converted-to.pdf, id=25, 367.3725pt x 305.14pt>
 File: figs/ex3_states-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex3_states-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex3_states-eps-converted-to.pdf used on input lin
-e 105.
+e 152.
 (pdftex.def)             Requested size: 341.43306pt x 283.61429pt.
- [3]
 Package epstopdf Info: Source file: <figs/ex3_j.eps>
 (epstopdf)                    date: 2018-03-11 21:37:02
 (epstopdf)                    size: 134781 bytes
@@ -760,18 +760,18 @@ Package epstopdf Info: Source file: <figs/ex3_j.eps>
 (epstopdf)                    size: 47752 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex3_j-eps-converted-to
 .pdf figs/ex3_j.eps>
-(epstopdf)             \includegraphics on input line 110.
+(epstopdf)             \includegraphics on input line 157.
 Package epstopdf Info: Output file is already uptodate.
 
-<figs/ex3_j-eps-converted-to.pdf, id=25, 364.36125pt x 305.14pt>
+<figs/ex3_j-eps-converted-to.pdf, id=26, 364.36125pt x 305.14pt>
 File: figs/ex3_j-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex3_j-eps-converted-to.pdf>
-Package pdftex.def Info: figs/ex3_j-eps-converted-to.pdf used on input line 110
+Package pdftex.def Info: figs/ex3_j-eps-converted-to.pdf used on input line 157
 .
-(pdftex.def)             Requested size: 341.43306pt x 285.94698pt.
- [4 <./figs/ex3_states-eps-converted-to.pdf> <./figs/ex3_j-eps-converted-to.pdf
->] (matlab/exercicio04b.m [5] [6])
+(pdftex.def)             Requested size: 227.62204pt x 190.62355pt.
+ [4 <./figs/ex3_states-eps-converted-to.pdf>] (matlab/exercicio04b.m [5 <./figs
+/ex3_j-eps-converted-to.pdf>]) [6]
 Package epstopdf Info: Source file: <figs/ex4b_states.eps>
 (epstopdf)                    date: 2018-03-11 22:38:26
 (epstopdf)                    size: 30987 bytes
@@ -780,15 +780,15 @@ Package epstopdf Info: Source file: <figs/ex4b_states.eps>
 (epstopdf)                    size: 12822 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex4b_states-eps-conver
 ted-to.pdf figs/ex4b_states.eps>
-(epstopdf)             \includegraphics on input line 161.
+(epstopdf)             \includegraphics on input line 208.
 Package epstopdf Info: Output file is already uptodate.
 
-<figs/ex4b_states-eps-converted-to.pdf, id=53, 370.38374pt x 303.1325pt>
+<figs/ex4b_states-eps-converted-to.pdf, id=54, 370.38374pt x 303.1325pt>
 File: figs/ex4b_states-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex4b_states-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex4b_states-eps-converted-to.pdf used on input li
-ne 161.
+ne 208.
 (pdftex.def)             Requested size: 341.43306pt x 279.44034pt.
 Package epstopdf Info: Source file: <figs/ex4b_j.eps>
 (epstopdf)                    date: 2018-03-11 22:38:27
@@ -798,25 +798,24 @@ Package epstopdf Info: Source file: <figs/ex4b_j.eps>
 (epstopdf)                    size: 13180 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex4b_j-eps-converted-t
 o.pdf figs/ex4b_j.eps>
-(epstopdf)             \includegraphics on input line 166.
+(epstopdf)             \includegraphics on input line 213.
 Package epstopdf Info: Output file is already uptodate.
 
-<figs/ex4b_j-eps-converted-to.pdf, id=54, 370.38374pt x 303.1325pt>
+<figs/ex4b_j-eps-converted-to.pdf, id=55, 370.38374pt x 303.1325pt>
 File: figs/ex4b_j-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex4b_j-eps-converted-to.pdf>
-Package pdftex.def Info: figs/ex4b_j-eps-converted-to.pdf used on input line 16
-6.
+Package pdftex.def Info: figs/ex4b_j-eps-converted-to.pdf used on input line 21
+3.
 (pdftex.def)             Requested size: 341.43306pt x 279.44034pt.
- [7 <./figs/ex4b_states-eps-converted-to.pdf>] <figs/j_04.png, id=67, 803.0pt x
- 803.0pt>
+
+<figs/j_04.png, id=56, 803.0pt x 803.0pt>
 File: figs/j_04.png Graphic file (type png)
  <use figs/j_04.png>
-Package pdftex.def Info: figs/j_04.png used on input line 171.
+Package pdftex.def Info: figs/j_04.png used on input line 218.
 (pdftex.def)             Requested size: 341.43306pt x 341.4359pt.
- [8 <./figs/ex4b_j-eps-converted-to.pdf>] [9 <./figs/j_04.png>] (matlab/exercic
-io05.m
-[10])
+ [7 <./figs/ex4b_states-eps-converted-to.pdf> <./figs/ex4b_j-eps-converted-to.p
+df>] [8 <./figs/j_04.png>] (matlab/exercicio05.m [9])
 Package epstopdf Info: Source file: <figs/ex5_states.eps>
 (epstopdf)                    date: 2018-03-11 22:25:39
 (epstopdf)                    size: 53762 bytes
@@ -825,14 +824,15 @@ Package epstopdf Info: Source file: <figs/ex5_states.eps>
 (epstopdf)                    size: 15969 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex5_states-eps-convert
 ed-to.pdf figs/ex5_states.eps>
-(epstopdf)             \includegraphics on input line 211.
+(epstopdf)             \includegraphics on input line 258.
 Package epstopdf Info: Output file is already uptodate.
- <figs/ex5_states-eps-converted-to.pdf, id=87, 373.395pt x 303.1325pt>
+
+<figs/ex5_states-eps-converted-to.pdf, id=85, 373.395pt x 303.1325pt>
 File: figs/ex5_states-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex5_states-eps-converted-to.pdf>
 Package pdftex.def Info: figs/ex5_states-eps-converted-to.pdf used on input lin
-e 211.
+e 258.
 (pdftex.def)             Requested size: 341.43306pt x 277.197pt.
 Package epstopdf Info: Source file: <figs/ex5_j.eps>
 (epstopdf)                    date: 2018-03-11 22:25:39
@@ -842,23 +842,23 @@ Package epstopdf Info: Source file: <figs/ex5_j.eps>
 (epstopdf)                    size: 12536 bytes
 (epstopdf)             Command: <epstopdf --outfile=figs/ex5_j-eps-converted-to
 .pdf figs/ex5_j.eps>
-(epstopdf)             \includegraphics on input line 216.
+(epstopdf)             \includegraphics on input line 263.
 Package epstopdf Info: Output file is already uptodate.
 
-<figs/ex5_j-eps-converted-to.pdf, id=88, 370.38374pt x 303.1325pt>
+<figs/ex5_j-eps-converted-to.pdf, id=86, 370.38374pt x 303.1325pt>
 File: figs/ex5_j-eps-converted-to.pdf Graphic file (type pdf)
 
 <use figs/ex5_j-eps-converted-to.pdf>
-Package pdftex.def Info: figs/ex5_j-eps-converted-to.pdf used on input line 216
+Package pdftex.def Info: figs/ex5_j-eps-converted-to.pdf used on input line 263
 .
 (pdftex.def)             Requested size: 341.43306pt x 279.44034pt.
- [11 <./figs/ex5_states-eps-converted-to.pdf>] [12 <./figs/ex5_j-eps-converted-
+ [10 <./figs/ex5_states-eps-converted-to.pdf>] [11 <./figs/ex5_j-eps-converted-
 to.pdf>] (main.aux) ) 
 Here is how much of TeX's memory you used:
- 6800 strings out of 493323
- 88596 string characters out of 3130014
- 323997 words of memory out of 3000000
- 10199 multiletter control sequences out of 15000+200000
+ 6805 strings out of 493323
+ 88670 string characters out of 3130014
+ 310144 words of memory out of 3000000
+ 10201 multiletter control sequences out of 15000+200000
  16577 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  42i,14n,50p,309b,1801s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -879,10 +879,11 @@ al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/renan
 Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
 r8.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/ams
 fonts/cm/cmsy10.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2.9/fonts/typ
-e1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (12 pages, 334505 bytes).
+e1/public/amsfonts/cm/cmsy8.pfb><C:/Users/renan/AppData/Local/Programs/MiKTeX 2
+.9/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (11 pages, 340554 bytes).
 PDF statistics:
- 351 PDF objects out of 1000 (max. 8388607)
+ 354 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

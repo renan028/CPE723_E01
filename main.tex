@@ -67,6 +67,53 @@ Segue o código fonte do exercício, em Matlab:
 \lstinputlisting[style=myMatlab]{matlab/exercicio0101b.m} 
 \end{exercise}
 
+\begin{exercise}{1.c}
+Queremos encontrar $I = \int_{0}^{1} xe^{-x} dx$. Podemos reescrever a integral
+como valor esperado $I = \mathbb{E}[f(X)]$, onde $f$ é alguma função real e $X$
+é uma variável aleatória cuja distribuição de probabilidade é definida por
+alguma função de densidade de probabilidade.
+
+Temos que $X \thicksim \phi(x) = \lambda e^{-\lambda x} $. Devemos
+normalizar a função de densidade de probabilidade para o intervalo $(0,1)$,
+logo:
+\begin{align*}
+\phi(x) &=  \frac{\lambda e^{-\lambda x}}{\int_0^1 \lambda e^{-\lambda x} dx} \\
+\phi(x) &=  \frac{\lambda e^{-\lambda x}}{1-e^{-\lambda}}
+\end{align*}
+
+Temos ainda que:
+\begin{align*}
+\mathbb{E}[f(X)] &= \int_0^1 f(t)\phi(t) dt \\
+\mathbb{E}[f(X)] &= \int_0^1 f(t)\frac{\lambda e^{-\lambda x}}{1-e^{-\lambda}} dt
+\end{align*}
+
+Para chegarmos em $I$, escolhemos $\lambda = 1$ e $f(x)$:
+\begin{align*}
+f(t) &= (1-e^{-1})t
+\end{align*} 
+  
+E assim temos:
+\begin{align*}
+I = \int_{0}^{1} te^{-t} dt
+\end{align*}
+
+A integração pelo método de Monte Carlo diz que se $X_1, \ldots, X_N$ são
+amostras independentes da distribuição exponencial $X \thicksim \phi(x) = e^{-x}
+$, então:
+
+\begin{align*}
+\lim_{N\rightarrow +\infty} \frac{1}{N} \sum_{i=1}^{N} f(X_i) &=
+\mathbb{E}[f(X)] \\
+I &= \sum_{i=1}^{N} X_i
+\end{align*}
+
+Utilizando o programa escrito em MatLab, abaixo:
+\lstinputlisting[style=myMatlab]{matlab/exercicio0101c.m}
+
+Obtivemos $I = 0.2687$ para $10$ amostras. 
+
+\end{exercise}
+
 \begin{exercise}{2}
 Considere:
 \begin{align*}
@@ -107,7 +154,7 @@ Segue o código fonte do exercício, em Matlab:
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=12cm]{figs/ex3_j.eps} 
+  \includegraphics[width=8cm]{figs/ex3_j.eps} 
 \end{figure}
 \end{exercise}
 
